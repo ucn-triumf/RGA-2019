@@ -1,0 +1,44 @@
+02:57:35 PM  Sunday, October 20, 2019
+Residual Gas Analyzer Software 
+Software Version, 3.216.001
+
+Analog PvsT log
+
+Data Points in Scan, 1991 
+Units, Torr 
+Noise Floor, 2 
+CEM Status, OFF 
+Points Per AMU, 10
+Scan Start Mass, 1, amu 
+Scan Stop Mass, 200, amu
+Focus Voltage, 90, Volts 
+Ion Energy, HIGH 
+Electron Energy, 70, eV 
+CEM Voltage, 1090, Volts
+CEM Gain, 9.64E+002 
+Sensitivity Factor, 2.31E-004 
+Filament Current, 1.00, mAmps
+
+Gas#1 : Hydrogen                (mass= 2)
+Gas#2 : Helium                  (mass= 4)
+Gas#3 : Methan                  (mass= 16)
+Gas#4 : Water                   (mass= 18)
+Gas#5 : Neon                    (mass= 20)
+Gas#6 : CO                      (mass= 28)
+Gas#7 : NO                      (mass= 30)
+Gas#8 : Argon                   (mass= 40)
+Gas#9 : MP Oil                  (mass= 43)
+Gas#10: CO2                     (mass= 44)
+Gas#11: Krypton                 (mass= 84)
+
+Time(s)    Gas#1       Gas#2       Gas#3       Gas#4       Gas#5       Gas#6       Gas#7       Gas#8       Gas#9       Gas#10      Gas#11      
+1          1.01e-007   9.01e-011   3.50e-010   6.41e-009  -7.37e-012   2.11e-010  -1.73e-012  -5.68e-011  -8.23e-011   6.76e-011  -4.90e-011  
+82         9.69e-008   1.40e-010   4.51e-010   5.72e-009   1.72e-010   2.30e-010   1.04e-010   2.56e-011  -4.68e-011   1.08e-010   6.93e-011  
+164        9.47e-008   9.92e-011   2.91e-010   5.82e-009  -2.64e-011   2.77e-010   7.71e-011   1.04e-011  -2.95e-011   9.45e-011  -2.60e-012  
+245        9.23e-008   2.34e-010   3.72e-010   5.40e-009  -1.73e-011   2.10e-010   1.73e-010   3.12e-011  -2.08e-011   8.23e-012   8.97e-011  
+327        1.06e-007   1.45e-010   3.85e-010   6.97e-009  -3.60e-011   1.96e-010   1.43e-010   3.47e-012  -1.82e-011   1.18e-010  -3.60e-011  
+409        1.09e-007   2.27e-010   3.96e-010   6.74e-009   1.24e-010   2.70e-010   1.65e-010   7.32e-011   4.29e-011   3.38e-011   5.03e-011  
+490        1.08e-007   1.29e-010   3.28e-010   6.70e-009  -9.10e-012   2.50e-010   1.90e-010  -3.21e-011  -3.08e-011   4.33e-011   1.75e-010  
+572        1.04e-007   5.20e-011   1.92e-010   6.13e-009  -2.73e-011   1.32e-010   6.89e-011  -3.38e-011  -3.99e-011  -1.86e-011  -1.17e-010  
+653        1.02e-007   1.88e-010   4.34e-010   6.76e-009   1.25e-010   1.82e-010   1.95e-010   9.10e-012   4.16e-011   4.33e-011   1.07e-010  
+735        9.95e-008   6.89e-011   4.52e-010   6.27e-009   1.21e-010   2.49e-010   1.14e-010   3.25e-011   4.03e-011   9.45e-011   5.68e-011  
