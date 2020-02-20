@@ -7,6 +7,9 @@ Notebooks used for preliminary evaluation of RGA scans performed in the 2019 fal
   Each data set consists of five scans.
   The folders are saved in names such as "rga1_Nov_15_2019_05-38-27_PM"
   In it, the files are saved with names such as "Nov_15_2019__05-39-50_PM.txt"
+
+- RGAdata:
+  A direct copy from the desktop PC used for the RGA scans.Constains also unnecessary data from early 2019. Sorted them in the folder 'RGAdata_2019'
   
 - RGAdata_2019/gaslib/gaslib.dat:
   Library of fragmentation ratio from the SRS which was found in the installation directory of the software 
