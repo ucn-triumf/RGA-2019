@@ -1,0 +1,43 @@
+02:42:08 PM  Sunday, November 17, 2019
+Residual Gas Analyzer Software 
+Software Version, 3.216.001
+
+Analog Scan Analysis
+
+Data Points in Scan, 1991 
+Units, Torr 
+Noise Floor, 2 
+CEM Status, OFF 
+Points Per AMU, 10
+Scan Start Mass, 1, amu 
+Scan Stop Mass, 200, amu
+Focus Voltage, 90, Volts 
+Ion Energy, HIGH 
+Electron Energy, 70, eV 
+CEM Voltage, 1090, Volts
+CEM Gain, 9.64E+002 
+Sensitivity Factor, 2.31E-004 
+Filament Current, 1.00, mAmps
+
+
+time(s)   Argon        Carbon di... Helium       Hydrogen     Neon         Nitrogen     Oxygen       Water        
+
+1         0.0          0.0          95.2         3.2          0.0          0.4          0.0          1.3          
+
+82        0.0          0.0          95.6         3.0          0.0          0.3          0.0          1.0          
+
+164       0.0          0.0          95.6         3.0          0.0          0.3          0.0          1.0          
+
+246       0.0          0.0          96.1         2.9          0.0          0.3          0.0          0.7          
+
+327       0.0          0.0          96.4         2.8          0.0          0.3          0.0          0.6          
+
+409       0.0          0.0          96.4         2.8          0.0          0.3          0.0          0.6          
+
+490       0.0          0.0          96.5         2.6          0.0          0.3          0.0          0.6          
+
+584       0.0          0.0          96.4         2.7          0.0          0.3          0.0          0.6          
+
+665       0.0          0.0          96.5         2.6          0.0          0.3          0.0          0.6          
+
+747       0.0          0.0          96.5         2.6          0.0          0.3          0.0          0.6          
