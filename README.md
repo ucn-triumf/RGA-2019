@@ -19,7 +19,7 @@ Notebooks used for preliminary evaluation of RGA scans performed in the 2019 fal
   
 #### Notebook:
 - RGA_preliminary-1.ipynb:
-  - Cacluate avergae of 4 scans from each data set (reason of skipping the first one is that, often it was observed the first scan has some fluctutation (due to somethings attached on the filament surface?))
+  - Cacluate avergae of 3 last scans from each data set (this is controled by the variable  N0 = 2, defining the start of the averaging for loop). Reason of skipping the first one is that, often it was observed the first scan has some fluctutation (due to somethings attached on the filament surface?)
   - Evalute the fragmentation mass spectrum, search peak using a scipy library 
   - Plot evolution of the peak heights of the fragmentation mass spectrum as function of time
 - SRS_data.ipynb: 
